@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0/win10-x64",
-    "signature": "a9b59bf0302a5bb26119851e4a3dec227a2e9a54"
+    "signature": "6d6cb70b70c32fd1d59d7be5facb0bb248075624"
   },
   "compilationOptions": {},
   "targets": {
@@ -12,7 +12,8 @@
           "Microsoft.AspNetCore.Mvc": "1.1.0",
           "Microsoft.AspNetCore.Routing": "1.1.0",
           "Microsoft.AspNetCore.Server.Kestrel": "1.1.0",
-          "Microsoft.NETCore.App": "1.1.0"
+          "Microsoft.NETCore.App": "1.1.0",
+          "Mono.Cecil": "0.10.0"
         },
         "runtime": {
           "Stratis-Contract-Swagger.dll": {}
@@ -921,6 +922,24 @@
         },
         "runtime": {
           "runtimes/win/lib/netstandard1.3/Microsoft.Win32.Registry.dll": {}
+        }
+      },
+      "Mono.Cecil/0.10.0": {
+        "dependencies": {
+          "System.Collections": "4.3.0",
+          "System.IO.FileSystem": "4.3.0",
+          "System.IO.FileSystem.Primitives": "4.3.0",
+          "System.Reflection": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Security.Cryptography.Algorithms": "4.3.0",
+          "System.Security.Cryptography.Csp": "4.3.0",
+          "System.Threading": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.3/Mono.Cecil.Mdb.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.Pdb.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.Rocks.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.dll": {}
         }
       },
       "NETStandard.Library/1.6.1": {
@@ -3193,6 +3212,13 @@
       "sha512": "sha512-Lw1/VwLH1yxz6SfFEjVRCN0pnflLEsWgnV4qsdJ512/HhTwnKXUG+zDQ4yTO3K/EJQemGoNaBHX5InISNKTzUQ==",
       "path": "microsoft.win32.registry/4.3.0",
       "hashPath": "microsoft.win32.registry.4.3.0.nupkg.sha512"
+    },
+    "Mono.Cecil/0.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nHSF7wvyZRPAGXl49zgULPFubXHpsXlOH9RXFRUKb0TX0/tKkKljci6yBszVNI09PIDNQ8IP9WJTYvmBkMbbHw==",
+      "path": "mono.cecil/0.10.0",
+      "hashPath": "mono.cecil.0.10.0.nupkg.sha512"
     },
     "NETStandard.Library/1.6.1": {
       "type": "package",

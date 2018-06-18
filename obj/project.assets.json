@@ -1263,6 +1263,31 @@
           }
         }
       },
+      "Mono.Cecil/0.10.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Collections": "4.0.11",
+          "System.IO.FileSystem": "4.0.1",
+          "System.IO.FileSystem.Primitives": "4.0.1",
+          "System.Reflection": "4.1.0",
+          "System.Runtime.Extensions": "4.1.0",
+          "System.Security.Cryptography.Algorithms": "4.2.0",
+          "System.Security.Cryptography.Csp": "4.0.0",
+          "System.Threading": "4.0.11"
+        },
+        "compile": {
+          "lib/netstandard1.3/Mono.Cecil.Mdb.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.Pdb.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.Rocks.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Mono.Cecil.Mdb.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.Pdb.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.Rocks.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.dll": {}
+        }
+      },
       "NETStandard.Library/1.6.1": {
         "type": "package",
         "dependencies": {
@@ -2855,7 +2880,7 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/System.Security.Cryptography.Csp.dll": {}
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard1.3/System.Security.Cryptography.Csp.dll": {
@@ -4570,6 +4595,31 @@
         },
         "runtime": {
           "runtimes/unix/lib/netstandard1.3/Microsoft.Win32.Registry.dll": {}
+        }
+      },
+      "Mono.Cecil/0.10.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Collections": "4.0.11",
+          "System.IO.FileSystem": "4.0.1",
+          "System.IO.FileSystem.Primitives": "4.0.1",
+          "System.Reflection": "4.1.0",
+          "System.Runtime.Extensions": "4.1.0",
+          "System.Security.Cryptography.Algorithms": "4.2.0",
+          "System.Security.Cryptography.Csp": "4.0.0",
+          "System.Threading": "4.0.11"
+        },
+        "compile": {
+          "lib/netstandard1.3/Mono.Cecil.Mdb.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.Pdb.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.Rocks.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Mono.Cecil.Mdb.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.Pdb.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.Rocks.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.dll": {}
         }
       },
       "NETStandard.Library/1.6.1": {
@@ -6420,7 +6470,7 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/System.Security.Cryptography.Csp.dll": {}
         },
         "runtime": {
           "runtimes/unix/lib/netstandard1.3/System.Security.Cryptography.Csp.dll": {}
@@ -8094,6 +8144,31 @@
         },
         "runtime": {
           "runtimes/win/lib/netstandard1.3/Microsoft.Win32.Registry.dll": {}
+        }
+      },
+      "Mono.Cecil/0.10.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Collections": "4.0.11",
+          "System.IO.FileSystem": "4.0.1",
+          "System.IO.FileSystem.Primitives": "4.0.1",
+          "System.Reflection": "4.1.0",
+          "System.Runtime.Extensions": "4.1.0",
+          "System.Security.Cryptography.Algorithms": "4.2.0",
+          "System.Security.Cryptography.Csp": "4.0.0",
+          "System.Threading": "4.0.11"
+        },
+        "compile": {
+          "lib/netstandard1.3/Mono.Cecil.Mdb.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.Pdb.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.Rocks.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Mono.Cecil.Mdb.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.Pdb.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.Rocks.dll": {},
+          "lib/netstandard1.3/Mono.Cecil.dll": {}
         }
       },
       "NETStandard.Library/1.6.1": {
@@ -9904,7 +9979,7 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/System.Security.Cryptography.Csp.dll": {}
         },
         "runtime": {
           "runtimes/win/lib/netstandard1.3/System.Security.Cryptography.Csp.dll": {}
@@ -11491,6 +11566,27 @@
         "runtimes/win/lib/net46/Microsoft.Win32.Registry.dll",
         "runtimes/win/lib/netcore50/_._",
         "runtimes/win/lib/netstandard1.3/Microsoft.Win32.Registry.dll"
+      ]
+    },
+    "Mono.Cecil/0.10.0": {
+      "sha512": "nHSF7wvyZRPAGXl49zgULPFubXHpsXlOH9RXFRUKb0TX0/tKkKljci6yBszVNI09PIDNQ8IP9WJTYvmBkMbbHw==",
+      "type": "package",
+      "path": "mono.cecil/0.10.0",
+      "files": [
+        "lib/net35/Mono.Cecil.Mdb.dll",
+        "lib/net35/Mono.Cecil.Pdb.dll",
+        "lib/net35/Mono.Cecil.Rocks.dll",
+        "lib/net35/Mono.Cecil.dll",
+        "lib/net40/Mono.Cecil.Mdb.dll",
+        "lib/net40/Mono.Cecil.Pdb.dll",
+        "lib/net40/Mono.Cecil.Rocks.dll",
+        "lib/net40/Mono.Cecil.dll",
+        "lib/netstandard1.3/Mono.Cecil.Mdb.dll",
+        "lib/netstandard1.3/Mono.Cecil.Pdb.dll",
+        "lib/netstandard1.3/Mono.Cecil.Rocks.dll",
+        "lib/netstandard1.3/Mono.Cecil.dll",
+        "mono.cecil.0.10.0.nupkg.sha512",
+        "mono.cecil.nuspec"
       ]
     },
     "NETStandard.Library/1.6.1": {
@@ -17175,7 +17271,8 @@
       "Microsoft.AspNetCore.Mvc >= 1.1.0",
       "Microsoft.AspNetCore.Routing >= 1.1.0",
       "Microsoft.AspNetCore.Server.Kestrel >= 1.1.0",
-      "Microsoft.NETCore.App >= 1.1.0"
+      "Microsoft.NETCore.App >= 1.1.0",
+      "Mono.Cecil >= 0.10.0"
     ]
   },
   "packageFolders": {
@@ -17234,6 +17331,10 @@
           "Microsoft.NETCore.App": {
             "target": "Package",
             "version": "[1.1.0, )"
+          },
+          "Mono.Cecil": {
+            "target": "Package",
+            "version": "[0.10.0, )"
           }
         },
         "imports": [

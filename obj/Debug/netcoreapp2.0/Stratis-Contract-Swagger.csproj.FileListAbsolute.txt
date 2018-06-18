@@ -10,3 +10,4 @@ C:\Users\AdamB\Documents\GitHub\Stratis-Contract-Swagger\obj\Debug\netcoreapp2.0
 C:\Users\AdamB\Documents\GitHub\Stratis-Contract-Swagger\obj\Debug\netcoreapp2.0\Stratis-Contract-Swagger.pdb
 C:\Users\AdamB\Documents\GitHub\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\Microsoft.DiaSymReader.Native.x86.dll
 C:\Users\AdamB\Documents\GitHub\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AdamB\Documents\GitHub\Stratis-Contract-Swagger\obj\Debug\netcoreapp2.0\Stratis-Contract-Swagger.csprojResolveAssemblyReference.cache
