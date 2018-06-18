@@ -1,0 +1,15 @@
+C:\Users\AdamB\Documents\github\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\osx.10.11-x64\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AdamB\Documents\github\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\osx.10.11-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AdamB\Documents\github\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\osx.10.11-x64\libhostpolicy.dylib
+C:\Users\AdamB\Documents\github\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\osx.10.11-x64\libhostfxr.dylib
+C:\Users\AdamB\Documents\github\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\osx.10.11-x64\Stratis-Contract-Swagger
+C:\Users\AdamB\Documents\github\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\osx.10.11-x64\Stratis-Contract-Swagger.deps.json
+C:\Users\AdamB\Documents\github\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\osx.10.11-x64\Stratis-Contract-Swagger.runtimeconfig.json
+C:\Users\AdamB\Documents\github\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\osx.10.11-x64\Stratis-Contract-Swagger.runtimeconfig.dev.json
+C:\Users\AdamB\Documents\github\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\osx.10.11-x64\Stratis-Contract-Swagger.dll
+C:\Users\AdamB\Documents\github\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\osx.10.11-x64\Stratis-Contract-Swagger.pdb
+C:\Users\AdamB\Documents\github\Stratis-Contract-Swagger\obj\Debug\netcoreapp2.0\osx.10.11-x64\Stratis-Contract-Swagger.csproj.CoreCompileInputs.cache
+C:\Users\AdamB\Documents\github\Stratis-Contract-Swagger\obj\Debug\netcoreapp2.0\osx.10.11-x64\Stratis-Contract-Swagger.AssemblyInfoInputs.cache
+C:\Users\AdamB\Documents\github\Stratis-Contract-Swagger\obj\Debug\netcoreapp2.0\osx.10.11-x64\Stratis-Contract-Swagger.AssemblyInfo.cs
+C:\Users\AdamB\Documents\github\Stratis-Contract-Swagger\obj\Debug\netcoreapp2.0\osx.10.11-x64\Stratis-Contract-Swagger.dll
+C:\Users\AdamB\Documents\github\Stratis-Contract-Swagger\obj\Debug\netcoreapp2.0\osx.10.11-x64\Stratis-Contract-Swagger.pdb

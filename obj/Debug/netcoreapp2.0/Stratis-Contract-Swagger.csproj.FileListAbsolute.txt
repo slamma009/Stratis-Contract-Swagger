@@ -1,0 +1,12 @@
+C:\Users\AdamB\Documents\GitHub\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\Stratis-Contract-Swagger.deps.json
+C:\Users\AdamB\Documents\GitHub\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\Stratis-Contract-Swagger.runtimeconfig.json
+C:\Users\AdamB\Documents\GitHub\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\Stratis-Contract-Swagger.runtimeconfig.dev.json
+C:\Users\AdamB\Documents\GitHub\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\Stratis-Contract-Swagger.dll
+C:\Users\AdamB\Documents\GitHub\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\Stratis-Contract-Swagger.pdb
+C:\Users\AdamB\Documents\GitHub\Stratis-Contract-Swagger\obj\Debug\netcoreapp2.0\Stratis-Contract-Swagger.csproj.CoreCompileInputs.cache
+C:\Users\AdamB\Documents\GitHub\Stratis-Contract-Swagger\obj\Debug\netcoreapp2.0\Stratis-Contract-Swagger.AssemblyInfoInputs.cache
+C:\Users\AdamB\Documents\GitHub\Stratis-Contract-Swagger\obj\Debug\netcoreapp2.0\Stratis-Contract-Swagger.AssemblyInfo.cs
+C:\Users\AdamB\Documents\GitHub\Stratis-Contract-Swagger\obj\Debug\netcoreapp2.0\Stratis-Contract-Swagger.dll
+C:\Users\AdamB\Documents\GitHub\Stratis-Contract-Swagger\obj\Debug\netcoreapp2.0\Stratis-Contract-Swagger.pdb
+C:\Users\AdamB\Documents\GitHub\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AdamB\Documents\GitHub\Stratis-Contract-Swagger\bin\Debug\netcoreapp2.0\Microsoft.DiaSymReader.Native.amd64.dll
