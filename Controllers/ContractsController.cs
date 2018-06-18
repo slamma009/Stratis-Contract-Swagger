@@ -3,8 +3,11 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using api.Models;
+using api.Services;
+using api.StratisResponses;
 using Microsoft.AspNetCore.Mvc;
 using Mono.Cecil;
+using Newtonsoft.Json;
 
 namespace api.Controllers
 {
@@ -12,9 +15,20 @@ namespace api.Controllers
     public class ContractsController : Controller
     {        
         [HttpPost]
-        public IActionResult GetMethodInfo([FromBody]StringRequest request )
+        public IActionResult GetContractInfo([FromBody] StringRequest request)
         {
-            string contractByteString = request.request;
+            // Call blockchain to get the smart contract code
+            string json = WebRequestHelper.GET("http://localhost:38220/api/SmartContracts/code?address=" + request.request);
+
+            // Convert the JSON to a CodeResponse object
+            CodeResponse response = JsonConvert.DeserializeObject<CodeResponse>(json);
+
+            if (response == null || string.IsNullOrEmpty(response.bytecode))
+                return BadRequest();
+
+            // Grab the byte code from the response object
+            string contractByteString = response.bytecode;
+
             // Convert string to byte array
             byte[] contractByteCode = HexToByteArray(contractByteString);
 

@@ -17281,12 +17281,15 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\AdamB\\Documents\\github\\Stratis-Contract-Swagger\\Stratis-Contract-Swagger.csproj",
+      "projectUniqueName": "C:\\Users\\AdamB\\Documents\\GitHub\\Stratis-Contract-Swagger\\Stratis-Contract-Swagger.csproj",
       "projectName": "Stratis-Contract-Swagger",
-      "projectPath": "C:\\Users\\AdamB\\Documents\\github\\Stratis-Contract-Swagger\\Stratis-Contract-Swagger.csproj",
+      "projectPath": "C:\\Users\\AdamB\\Documents\\GitHub\\Stratis-Contract-Swagger\\Stratis-Contract-Swagger.csproj",
       "packagesPath": "C:\\Users\\AdamB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AdamB\\Documents\\github\\Stratis-Contract-Swagger\\obj\\",
+      "outputPath": "C:\\Users\\AdamB\\Documents\\GitHub\\Stratis-Contract-Swagger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
