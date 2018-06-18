@@ -16,7 +16,7 @@ namespace api.Controllers
                     Paramters = new [] {
                         new {
                             ParamType = "int", 
-                            ParamName = "TestParameterFrank"
+                            ParamName = "TestParameter"
                         } 
                     } 
                 }
